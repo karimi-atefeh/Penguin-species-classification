@@ -1,0 +1,9 @@
+notebook
+numpy
+matplotlib
+pandas
+seaborn
+scikit-learn
+click
+Sphinx
+flake8
